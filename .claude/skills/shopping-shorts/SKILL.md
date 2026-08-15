@@ -145,3 +145,4 @@ URL 슬러그와 해시태그만 보고 내용을 추측하면 그럴듯한 거�
 
 - `references/analysis-template.md` — 영상 한 편 해부용 빈 템플릿. 레퍼런스마다 하나씩 채운다
 - `references/hook-library.md` — 훅 유형별 실제 문장 패턴과 적용 조건
+- `references/item-review-format.md` — 단일 제품 리뷰 숏폼 골격. 리뷰 요청이면 이걸 먼저 읽는다
